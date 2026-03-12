@@ -74,7 +74,6 @@ README.md
 
 monitoring-agent/
     monitor.py
-    requirements.txt
 
 lambda-function/
     lambda_function.py
@@ -167,6 +166,3 @@ Daniel Afeamenyo
 
 Cloud & Infrastructure Engineer interested in building scalable cloud solutions and improving infrastructure reliability.
 
----
-
-If you want, I can also help you **add a professional architecture diagram to the README** that makes the GitHub project look **10× more impressive to recruiters**.
