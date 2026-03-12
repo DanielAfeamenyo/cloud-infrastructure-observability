@@ -1,3 +1,7 @@
+
+<img width="800" height="469" alt="architecture-diagram" src="https://github.com/user-attachments/assets/99dfdc13-a681-4d0f-bdeb-a27856432c6c" />
+
+
 # Cloud Infrastructure Observability System
 
 ## Overview
@@ -134,6 +138,8 @@ The Lambda function checks if the metrics exceed predefined thresholds such as:
 If an anomaly is detected, the system sends a notification using **Amazon SNS**.
 
 The alert is delivered via email to notify engineers of potential network issues.
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/50f48ce1-35fd-470b-8623-447f0b0a38fa" />
 
 ---
 
